@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Escriba un programa que imprima los números del 1 al 10 utilizando do-while.
+
+
